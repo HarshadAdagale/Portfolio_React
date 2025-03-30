@@ -12,7 +12,6 @@
 // import Acco from "./Accordians Project/Acco.js"
 // import Form from "./Basic Form Validation Project/Form.js"
 import Pop from "./ECom/Pop";
-// import HuxnOGecom from "./AHuxnEcom/src/HuxnOGecom";
 
 
 function App() {
@@ -32,7 +31,6 @@ function App() {
     {/* < Acco /> */}
     {/* < Form /> */}
     < Pop />
-    {/* < HuxnOGecom /> */}
     </>
   );
 }
