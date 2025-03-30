@@ -1,3 +1,10 @@
+# How to See projects?
+Use npm start on App.js File and then go to http://localhost:3000/ to see the projects
+Uncomment the relevant project in App.js at import and at render to see the project on browser
+Projects are in proper sequence in App.js file
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
