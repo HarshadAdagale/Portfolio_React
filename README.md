@@ -1,7 +1,7 @@
 # How to See projects?
-Use npm start on App.js File and then go to http://localhost:3000/ to see the projects
-Uncomment the relevant project in App.js at import and at render to see the project on browser
-Projects are in proper sequence in App.js file
+Use npm start on App.js File and then go to http://localhost:3000/ to see the projects <br />
+Uncomment the relevant project in App.js at import and at render to see the project on browser<br />
+Projects are in proper sequence in App.js file<br />
 
 
 
